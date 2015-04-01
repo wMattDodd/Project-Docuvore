@@ -40,12 +40,11 @@
 	        <artifactId>spring-boot-starter-data-mongodb</artifactId>
 	    </dependency>
 	    
-	    <!-- Apache Velocity 
+	    <!-- Apache Velocity --> 
 	    <dependency>
 	        <groupId>org.springframework.boot</groupId>
 	        <artifactId>spring-boot-starter-velocity</artifactId>
 	    </dependency>
-	    -->
 	    
 	    <!-- Project Lombok -->
 	    <dependency>
